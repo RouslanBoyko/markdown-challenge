@@ -30,7 +30,7 @@ Birthday | favorite color | favorite food | Pineapple on pizza
 When I moved to Belgium from Ukraine 20 years ago, my parents told me that we are going to disneyland. 
 
 
-###### I have never been to disneyland yet, it's the biggest lie of the universe... 
+###### I have never been in disneyland yet, it's the biggest lie of the universe... 
 
 << [previous]() || Rouslan || [next](https://github.com/StephaneGenet/AboutMe) >>
 
