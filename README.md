@@ -1,6 +1,7 @@
 # Rouslan Boyko
 
-![](Rouslan.jpg)
+![](rouslan.jpg)
+
 
 *Wisdom is not a product of schooling but of the lifelong attempt to acquire it.*
 
